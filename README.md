@@ -1,4 +1,4 @@
-# ShortestPath
+# Shortest Path
 Model the problem in terms of a weighted, directed graph and design shortest path for the Colonel Motors Corporation.
 
 The development environment is Visual Studio. The programming language is C++. The algorithms is Dijkstra’s algorithm.
